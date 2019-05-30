@@ -10,7 +10,9 @@ I) Description of the Mobile App Database
 II) Conversion Rates
 
 A) Overall Conversion Rate
+
 B) Conversion Rate at D+28 
+
 C) Cohort Conversion Rates
 1) Conversion Rates at D+28 by Gender and Device
 2) Conversion Rates at D+28 by Country
@@ -18,7 +20,9 @@ C) Cohort Conversion Rates
 III) Average Purchase Prices
 
 A) Overall Average Purchase Price
+
 B) Average Purchase Price at D+28
+
 C) Cohort Average Purchase Prices
 1) Average Purchase Prices at D+28 by Gender and Device
 2) Average Purchase Prices at D+28 by Country
